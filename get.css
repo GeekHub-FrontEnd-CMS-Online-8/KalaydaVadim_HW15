@@ -1,0 +1,37 @@
+body {
+    overflow-x: hidden;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.submit-form {
+    font-weight: bold;
+    list-style: none;
+}
+
+.submit-form hr {
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 15px;
+    
+}
+
+.submit-form li {
+    color: red;
+}
+
+.submit-form li p {
+    color: black;
+    padding-top: 15px;
+}
+
+.comments {
+    resize: none;
+}
